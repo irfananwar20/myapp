@@ -1,0 +1,4 @@
+myapp
+=====
+
+Yii extracted app
